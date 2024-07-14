@@ -1,0 +1,16 @@
+.home-container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa;
+  }
+  
+  .bg-white {
+    background-color: white;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
