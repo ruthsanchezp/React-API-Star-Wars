@@ -1,6 +1,6 @@
 # React API Star Wars
 
-Este proyecto es una aplicación de React que utiliza Vite para la generación del proyecto. La aplicación consume la API pública de Star Wars para mostrar datos sobre los personajes y presenta una tabla comparativa que permite ordenar los personajes por altura y masa. La aplicación está estilizada utilizando Bootstrap y CSS personalizado.
+Este proyecto es una aplicación de React que utiliza Vite para la generación del proyecto. La aplicación consume la API pública de Star Wars para mostrar datos sobre los personajes y presenta una tabla comparativa que permite ordenar los personajes por altura y masa. La aplicación está estilizada utilizando Bootstrap y CSS personalizado. 
 
 ## Requisitos y Entregables
 
@@ -31,4 +31,6 @@ A continuación, se utiliza esta lista para saber los requisitos mínimos del pr
 
    ```bash
    git clone https://github.com/ruthsanchezp/react-api-star-wars.git
+
+2. Link del despliegue en https://ruthsanchezp.github.io/react-api-star-wars/
 
